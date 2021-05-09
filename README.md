@@ -1,0 +1,2 @@
+# Symptoms
+Sign,symptom
